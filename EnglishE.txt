@@ -20,5 +20,9 @@ the hear of the sun - this is known as the greenhouse effect.
 The overall global temperature has already begun to rise.
 Global warming is expected to lead to extreme cganges in climate,
 with more frequent floos, droughts and heat waves.
+<<<<<<< HEAD
 No person, animal, bug or bird will be unaffected.
 ------------------------------------------------------------
+=======
+------
+>>>>>>> feature
